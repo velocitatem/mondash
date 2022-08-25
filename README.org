@@ -1,6 +1,18 @@
+#+title: Mondash
+
+[[./Peek 2022-08-25 14-54.gif]]
+
+A simple yet informative conky configuration setup.
 
 
-* Backends
-# for the cpu stats
-sar -u 1 >> /tmp/cpus &
+* Installation
+1. Clone the repo
+2. Install requirements
+** Requirements
++ sysstat
++ sensors
+
+* Usage
+=bash /path/to/startup_conky.sh=
+
 
