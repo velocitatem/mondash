@@ -5,4 +5,5 @@ conky -c ./configs/mem-roll.conf &
 conky -c ./configs/temp-roll.conf &
 conky -c ./configs/journal-roll.conf &
 conky -c ./configs/cmd-roll.conf &
+conky -c ./configs/proc-tree.conf &
 
