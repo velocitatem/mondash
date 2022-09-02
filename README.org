@@ -7,7 +7,7 @@ A simple yet informative conky configuration setup.
 
 * Installation
 1. Clone the repo
-=git clone https://gitlab.com/velocitatem/mondash ~/.config/conky/=
+=git clone https://gitlab.com/velocitatem/mondash ~/.config/conky/mondash=
 2. Install requirements
 ** Requirements
 + sysstat
